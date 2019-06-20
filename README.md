@@ -34,12 +34,11 @@ The dimensions of the boxes above.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00006.jpeg)
 
-![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/technical_drawing_MEU.png
-)
-
 6. Make sufficient cuts so that both parts click (notice the cut in the bottom left on the top surface).
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00007.jpeg)
+
+![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/technical_drawing_MEU_s.png)
 
 7. Wrap with two rubber bands. DONE!
 
