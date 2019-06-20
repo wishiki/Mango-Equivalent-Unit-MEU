@@ -1,6 +1,6 @@
 # Mango Equivalent Unit (MEU)
 
-MEU is a new unit to carry one mango in a parcel.
+MEU is a new unit to carry one mango in a parcel. 1 MEU is roughly equivalent to 1/14300 TEU.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/FA8727E7-5172-4A41-A414-407BDA25A4B0.jpeg)
 
