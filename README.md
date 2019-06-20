@@ -2,7 +2,7 @@
 
 MEU is a new unit to carry one mango in a parcel. 1 MEU is roughly equivalent to 1/14300 TEU.
 
-![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/FA8727E7-5172-4A41-A414-407BDA25A4B0.jpeg)
+![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/6EC3AF0C-33BE-4BBE-980E-2F81901FB9E3.jpg)
 
 ## How to make 1 MEU:
 
@@ -52,6 +52,4 @@ The dimensions of the boxes above.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00012.jpeg)
 
-![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/6EC3AF0C-33BE-4BBE-980E-2F81901FB9E3.jpg)
-
-
+![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/FA8727E7-5172-4A41-A414-407BDA25A4B0.jpeg)
