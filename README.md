@@ -14,8 +14,6 @@ The dimensions of the boxes above.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00021.jpeg)
 
-
-
 2. An example of 1 MEU (dimension) is 114 x 109 x 157 (mm). 
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00022.jpeg)
@@ -35,6 +33,9 @@ The dimensions of the boxes above.
 5. Flip and combine the two parts.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00006.jpeg)
+
+![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/technical_drawing_MEU.png
+)
 
 6. Make sufficient cuts so that both parts click (notice the cut in the bottom left on the top surface).
 
