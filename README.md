@@ -36,7 +36,7 @@ The dimensions of the boxes above.
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00006.jpeg)
 
-6. Make a sufficient cut so that both parts click (notice the cut in the bottom left on the top surface).
+6. Make sufficient cuts so that both parts click (notice the cut in the bottom left on the top surface).
 
 ![alt text](https://raw.githubusercontent.com/wishiki/Mango-Equivalent-Unit-MEU/master/image00007.jpeg)
 
